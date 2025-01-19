@@ -4,7 +4,7 @@ A simple package to bring the og sanic logo back!
 
 
 ```python
-import sanic_anarchy as anarchy; anarchy.patch() # noqa
+import sanic_anarchy as anarchy; anarchy.patch()
 ```
 
 
@@ -28,3 +28,16 @@ import sanic_anarchy as anarchy; anarchy.patch() # noqa
     ▌     ▐                ▀▀▄▄▄▀
     ▀▀▄▄▀
 
+# Installation
+
+Install from source directly
+
+```sh
+pip install git+https://github.com/goodki-d/sanic-anarchy.git
+```
+
+# Usage
+
+```python
+import sanic_anarchy as anarchy; anarchy.patch() # noqa
+```
