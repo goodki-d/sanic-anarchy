@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sanic-anarchy"
+version = "1.0.0"
+description = "Brings back the og sanic logo."
+authors = ["goodki-d"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
